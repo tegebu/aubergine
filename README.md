@@ -1,6 +1,7 @@
 # Aubergine
 
-<http://aubergine.tegebu.com/>
+
+<https://aubergine.tegebu.com>
 
 ## Endpoints
 
