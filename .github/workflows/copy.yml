@@ -23,4 +23,4 @@ jobs:
           git config --global user.name "tegebu github actions"
           git config --global user.email "actions@tegebu.com"
           git remote add gitlab git@gitlab.com:tegebu/aubergine.git
-          git push --force --mirror gitlab
+          git push --force gitlab main
